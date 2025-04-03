@@ -1,170 +1,75 @@
-2025-01-04 08:10:46,232 - INFO - Logging initialized.
-2025-01-04 08:10:46,235 - INFO - Loading model from remote repository.
-2025-01-04 08:10:46,719 - INFO - Lock 1410710250208 acquired on C:\Users\darab/.cache\huggingface\transformers\4d0259a9f6de3ef0b07a697542228edf8181eeb9ddfe08bd3ef36d15a49c9544.307bafc4c759c169284f16a3b7da838f3c90b1ac7acbe460d82b519bdc2a14aa.lock
-2025-01-04 08:10:46,853 - INFO - Lock 1410710250208 released on C:\Users\darab/.cache\huggingface\transformers\4d0259a9f6de3ef0b07a697542228edf8181eeb9ddfe08bd3ef36d15a49c9544.307bafc4c759c169284f16a3b7da838f3c90b1ac7acbe460d82b519bdc2a14aa.lock
-2025-01-04 08:10:47,401 - INFO - Lock 1410710252224 acquired on C:\Users\darab/.cache\huggingface\transformers\75de78d3f9a8da162f08f4d87fab2b158c09623cb901e53111e41fa2d518c91c.5e40c919303baa74ab577e32532cf7ed2bf5c9084e0ca61ac3fdd52b793b771f.lock
-2025-01-04 08:10:47,903 - INFO - Lock 1410710252224 released on C:\Users\darab/.cache\huggingface\transformers\75de78d3f9a8da162f08f4d87fab2b158c09623cb901e53111e41fa2d518c91c.5e40c919303baa74ab577e32532cf7ed2bf5c9084e0ca61ac3fdd52b793b771f.lock
-2025-01-04 08:19:03,061 - INFO - Logging initialized.
-2025-01-04 08:19:03,063 - INFO - Loading model from remote repository.
-2025-01-04 08:19:03,363 - INFO - Lock 2733120880304 acquired on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\737ebe2ce5d9bfacaa12044800e1d0b96e2c3840.lock
-2025-01-04 08:19:03,587 - INFO - Lock 2733120880304 released on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\737ebe2ce5d9bfacaa12044800e1d0b96e2c3840.lock
-2025-01-04 08:19:03,842 - INFO - Lock 2733120876896 acquired on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\2cf22d1382815503b573ffdedf2ee4b80ded1638.lock
-2025-01-04 08:19:04,391 - INFO - Lock 2733120876896 released on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\2cf22d1382815503b573ffdedf2ee4b80ded1638.lock
-2025-01-04 08:19:05,427 - INFO - Lock 2733121658400 acquired on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\a0336fa1b2534c5d5dd0f50a1d0a515748d0f18d.lock
-2025-01-04 08:19:05,570 - INFO - Lock 2733121658400 released on C:\Users\darab/.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\a0336fa1b2534c5d5dd0f50a1d0a515748d0f18d.lock
-2025-01-04 08:21:01,916 - INFO - Logging initialized.
-2025-01-04 08:21:01,919 - INFO - Loading model from remote repository.
-2025-01-04 08:21:41,870 - INFO - Logging initialized.
-2025-01-04 08:21:41,872 - INFO - Loading model from remote repository.
-2025-01-04 09:51:13,249 - INFO - Logging initialized.
-2025-01-04 09:51:13,251 - INFO - Loading model from remote repository.
-2025-01-04 09:57:21,767 - INFO - Logging initialized.
-2025-01-04 09:57:21,769 - INFO - Loading model from remote repository.
-2025-01-04 09:57:24,531 - INFO - Lock 2811945725328 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055.lock
-2025-01-04 09:57:24,766 - INFO - Lock 2811945725328 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\dadfd56d766715c61d2ef780a525ab43b8e6da4de6865bda3d95fdef5e134055.lock
-2025-01-04 09:57:25,398 - INFO - Lock 2811945785376 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\43e6daf936dc0f953cb867ec864adab78f92d9ce.lock
-2025-01-04 09:57:26,547 - INFO - Lock 2811945785376 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\43e6daf936dc0f953cb867ec864adab78f92d9ce.lock
-2025-01-04 09:57:26,766 - INFO - Lock 2811945724224 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\451134b2ddc2e78555d1e857518c54b4bdc2e87d.lock
-2025-01-04 09:57:26,882 - INFO - Lock 2811945724224 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\451134b2ddc2e78555d1e857518c54b4bdc2e87d.lock
-2025-01-04 09:57:27,472 - INFO - Lock 2811945725424 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\b72552668143973dd56923385f73523ecab86bd3.lock
-2025-01-04 09:57:27,586 - INFO - Lock 2811945725424 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\b72552668143973dd56923385f73523ecab86bd3.lock
-2025-01-04 09:57:27,707 - INFO - Lock 2811946109344 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\2829f64422aea6934ba68ca50aecdfe9c7651c46.lock
-2025-01-04 09:57:27,815 - INFO - Lock 2811946109344 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\2829f64422aea6934ba68ca50aecdfe9c7651c46.lock
-2025-01-04 09:57:27,935 - INFO - Lock 2811946109392 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\463fffc3500dfe9832d095baf01ee039a255f646.lock
-2025-01-04 09:57:28,047 - INFO - Lock 2811946109392 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\463fffc3500dfe9832d095baf01ee039a255f646.lock
-2025-01-04 09:57:28,267 - INFO - Lock 2811947052240 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\da98f9ef8c4b8ce4797001e507f3719d8d0e286a.lock
-2025-01-04 09:57:28,389 - INFO - Lock 2811947052240 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\da98f9ef8c4b8ce4797001e507f3719d8d0e286a.lock
-2025-01-04 10:00:44,440 - INFO - Logging initialized.
-2025-01-04 10:00:44,441 - INFO - Loading model from remote repository.
-2025-01-04 10:09:25,363 - INFO - Logging initialized.
-2025-01-04 10:09:25,365 - INFO - Loading model from remote repository.
-2025-01-04 10:09:34,240 - INFO - Lock 2377747671072 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\4348ab664c9cc93f6bf63bd148bb857507749f6c.lock
-2025-01-04 10:09:35,013 - INFO - Lock 2377747671072 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\4348ab664c9cc93f6bf63bd148bb857507749f6c.lock
-2025-01-04 10:09:35,399 - INFO - Lock 2377782484416 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\17cf1c475199690b5ac26372bc136c1a0f8667809172489f43620129ebefb092.lock
-2025-01-04 10:15:58,901 - INFO - Logging initialized.
-2025-01-04 10:15:58,903 - INFO - Loading model from remote repository.
-2025-01-04 10:16:03,220 - INFO - Lock 1892728364000 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\17cf1c475199690b5ac26372bc136c1a0f8667809172489f43620129ebefb092.lock
-2025-01-04 10:16:43,255 - INFO - Lock 1892728364000 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\17cf1c475199690b5ac26372bc136c1a0f8667809172489f43620129ebefb092.lock
-2025-01-04 10:16:43,375 - INFO - Lock 1892761611328 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8bd4e517a2cc06e6a6b2cf2bac8461f53be2bc2af13828fb16bb3505ad2fe712.lock
-2025-01-04 10:17:11,914 - INFO - Lock 1892761611328 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8bd4e517a2cc06e6a6b2cf2bac8461f53be2bc2af13828fb16bb3505ad2fe712.lock
-2025-01-04 10:18:31,865 - INFO - Logging initialized.
-2025-01-04 10:18:31,867 - INFO - Loading model from remote repository.
-2025-01-04 10:18:34,561 - INFO - Lock 2673914210960 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8bd4e517a2cc06e6a6b2cf2bac8461f53be2bc2af13828fb16bb3505ad2fe712.lock
-2025-01-04 10:26:09,457 - INFO - Lock 2673914210960 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8bd4e517a2cc06e6a6b2cf2bac8461f53be2bc2af13828fb16bb3505ad2fe712.lock
-2025-01-04 10:26:09,643 - INFO - Lock 2673947466480 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\e02a7202a70268a0c8dcda31300fecd4480c112d8d9a4520e8b4e35a8f122c57.lock
-2025-01-04 10:30:46,329 - WARNING - Error while downloading from https://cdn-lfs-us-1.hf.co/repos/33/51/3351a36fdf2fed903d8792176388e50671ffba103a88eb0a09b40dd5dd9eca77/e02a7202a70268a0c8dcda31300fecd4480c112d8d9a4520e8b4e35a8f122c57?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model-00003-of-00007.safetensors%3B+filename%3D%22model-00003-of-00007.safetensors%22%3B&Expires=1736274371&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNjI3NDM3MX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzMzLzUxLzMzNTFhMzZmZGYyZmVkOTAzZDg3OTIxNzYzODhlNTA2NzFmZmJhMTAzYTg4ZWIwYTA5YjQwZGQ1ZGQ5ZWNhNzcvZTAyYTcyMDJhNzAyNjhhMGM4ZGNkYTMxMzAwZmVjZDQ0ODBjMTEyZDhkOWE0NTIwZThiNGUzNWE4ZjEyMmM1Nz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=O8rQ16UtgStu8XEZEHcmEL98EX0vrtWqCx506xNd%7Ey4XwaaM9YafgOAfKrLpW4M2WvufdHMiroUes0zU7A3oWNgwWabuNnpwk2HRykrh5WKPSvaiFMlYpJHhYNt2ib%7Ev0YvkSFmYx4S4-NA%7EsIBa2jpgBksGKP4UDgdIplkhMJp1B4AfI7wqFYqfX87z4bNBMkx9PnymsNoSKkzFaiEFZmCNBqeS0fDK4GX1GGRKt7LSQ2toIQB9-1aPE1y0UxQtcW%7EvJoyot-CFq8EE2NDcNc7lS7zKnFR4lLHnrzuTKfChNyzr9qGE%7EUzDe4CuPzp8oon0XSReeVEGy93kBpPCAw__&Key-Pair-Id=K24J24Z295AEI9: HTTPSConnectionPool(host='cdn-lfs-us-1.hf.co', port=443): Read timed out.
-Trying to resume download...
-2025-01-04 10:33:39,298 - INFO - Lock 2673947466480 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\e02a7202a70268a0c8dcda31300fecd4480c112d8d9a4520e8b4e35a8f122c57.lock
-2025-01-04 10:33:39,445 - INFO - Lock 2673910588368 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\23b6b8f22977ae559008d7d0b153d6646cf0badf0a2558444f246129a694eda7.lock
-2025-01-04 10:38:00,373 - WARNING - Error while downloading from https://cdn-lfs-us-1.hf.co/repos/33/51/3351a36fdf2fed903d8792176388e50671ffba103a88eb0a09b40dd5dd9eca77/23b6b8f22977ae559008d7d0b153d6646cf0badf0a2558444f246129a694eda7?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model-00004-of-00007.safetensors%3B+filename%3D%22model-00004-of-00007.safetensors%22%3B&Expires=1736274821&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNjI3NDgyMX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy11cy0xLmhmLmNvL3JlcG9zLzMzLzUxLzMzNTFhMzZmZGYyZmVkOTAzZDg3OTIxNzYzODhlNTA2NzFmZmJhMTAzYTg4ZWIwYTA5YjQwZGQ1ZGQ5ZWNhNzcvMjNiNmI4ZjIyOTc3YWU1NTkwMDhkN2QwYjE1M2Q2NjQ2Y2YwYmFkZjBhMjU1ODQ0NGYyNDYxMjlhNjk0ZWRhNz9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fYrHUZonhcS9hQpIAw2cR9gFYXyS2LNbXvuMXG8hR9UndKHy9xll9xuy4aph7KIlfHcQ3OcjbaT8nGvQtoj7iix4wgUB%7Eh2CpjsUX60KC0-3gaL-3y5PNTuNF4ZDnkEKJRgITi9zA45Ibxv2v-g9AA0Z5kFKjk-NvG7U1JH7G8DOhNRt%7ETYX0yCIIutZ7QVDWnU-3hkeXBfNZ%7E0VafMmTL-6Y1JDVW6OQDvuZJ01FDZeW3%7E3u%7EJjsqmzbcD1My2Yd2ICdfQEJ0zc8KS84OeExgtguNviHTemX1EFmBEPJGiG4u6MfQQmRsk8RoV0CvSNSAVUvqBUg9yhGaBgJoqToQ__&Key-Pair-Id=K24J24Z295AEI9: HTTPSConnectionPool(host='cdn-lfs-us-1.hf.co', port=443): Read timed out.
-Trying to resume download...
-2025-01-04 10:41:09,232 - INFO - Lock 2673910588368 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\23b6b8f22977ae559008d7d0b153d6646cf0badf0a2558444f246129a694eda7.lock
-2025-01-04 10:41:09,455 - INFO - Lock 2673910588368 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\3d874b7ae8898e6dc89a45e00b17eed2c05c1ca1945ea43a254408f38ca974a8.lock
-2025-01-04 10:48:27,998 - INFO - Lock 2673910588368 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\3d874b7ae8898e6dc89a45e00b17eed2c05c1ca1945ea43a254408f38ca974a8.lock
-2025-01-04 10:48:28,254 - INFO - Lock 2673947466480 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8366a386401e78984d5c6fe49a0ca2551f02a16b892629a86fd9453a0e226aa5.lock
-2025-01-04 10:55:40,672 - INFO - Lock 2673947466480 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\8366a386401e78984d5c6fe49a0ca2551f02a16b892629a86fd9453a0e226aa5.lock
-2025-01-04 10:55:41,092 - INFO - Lock 2673947465328 acquired on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\975ad7dc9aca1e36ace96867534a2751ae35d45936ee2e8a27bef2a5211ec129.lock
-2025-01-04 11:02:02,441 - INFO - Lock 2673947465328 released on C:\Users\darab\.cache\huggingface\hub\.locks\models--StanfordAIMI--CheXagent-8b\975ad7dc9aca1e36ace96867534a2751ae35d45936ee2e8a27bef2a5211ec129.lock
-2025-01-04 11:05:34,234 - INFO - Logging initialized.
-2025-01-04 11:05:34,236 - INFO - Loading model from remote repository.
-2025-01-04 11:06:22,162 - INFO - Logging initialized.
-2025-01-04 11:06:22,163 - INFO - Loading model from remote repository.
-2025-01-04 11:06:49,569 - INFO - Logging initialized.
-2025-01-04 11:06:49,571 - INFO - Loading model from remote repository.
-2025-01-04 11:07:49,100 - INFO - Logging initialized.
-2025-01-04 11:07:49,101 - INFO - Loading model from remote repository.
-2025-01-04 11:08:14,920 - INFO - Logging initialized.
-2025-01-04 11:08:14,922 - INFO - Loading model from remote repository.
-2025-01-04 11:08:56,218 - INFO - Logging initialized.
-2025-01-04 11:08:56,220 - INFO - Loading model from remote repository.
-2025-01-04 11:09:55,935 - INFO - Logging initialized.
-2025-01-04 11:09:55,936 - INFO - Loading model from remote repository.
-2025-01-04 11:12:45,776 - INFO - Logging initialized.
-2025-01-04 11:12:45,778 - INFO - Loading model from remote repository.
-2025-01-04 11:13:05,982 - INFO - Logging initialized.
-2025-01-04 11:13:05,983 - INFO - Loading model from remote repository.
-2025-01-04 11:13:48,951 - INFO - Logging initialized.
-2025-01-04 11:13:48,952 - INFO - Loading model from remote repository.
-2025-01-04 11:14:09,939 - INFO - Logging initialized.
-2025-01-04 11:14:09,944 - INFO - Loading model from remote repository.
-2025-01-04 11:16:43,743 - INFO - Logging initialized.
-2025-01-04 11:16:43,745 - INFO - Loading model from remote repository.
-2025-01-04 11:17:03,427 - INFO - Logging initialized.
-2025-01-04 11:17:03,428 - INFO - Loading model from remote repository.
-2025-01-04 11:18:22,679 - INFO - Logging initialized.
-2025-01-04 11:18:22,680 - INFO - Loading model from remote repository.
-2025-01-04 11:20:07,004 - INFO - Logging initialized.
-2025-01-04 11:20:07,006 - INFO - Loading model from remote repository.
-2025-01-04 11:21:12,239 - INFO - Logging initialized.
-2025-01-04 11:21:12,240 - INFO - Loading model from remote repository.
-2025-01-04 11:23:24,641 - INFO - Logging initialized.
-2025-01-04 11:23:24,643 - INFO - Loading model from remote repository.
-2025-01-04 11:23:47,405 - INFO - Logging initialized.
-2025-01-04 11:23:47,407 - INFO - Loading model from remote repository.
-2025-01-04 11:24:14,131 - INFO - Logging initialized.
-2025-01-04 11:24:14,133 - INFO - Loading model from remote repository.
-2025-01-04 11:26:12,394 - INFO - Logging initialized.
-2025-01-04 11:26:12,397 - INFO - Loading model from remote repository.
-2025-01-04 11:28:05,021 - INFO - Logging initialized.
-2025-01-04 11:28:05,022 - INFO - Loading model from remote repository.
-2025-01-04 11:51:20,872 - INFO - Logging initialized.
-2025-01-04 11:51:20,874 - INFO - Loading model from remote repository.
-2025-01-04 13:22:56,052 - INFO - Logging initialized.
-2025-01-04 13:22:56,054 - INFO - Loading model from remote repository.
-2025-01-04 13:30:32,437 - INFO - Logging initialized.
-2025-01-04 13:30:32,438 - INFO - Loading model from remote repository.
-2025-01-04 13:33:01,566 - INFO - Saving model and processor locally.
-2025-01-04 13:35:36,310 - INFO - Logging initialized.
-2025-01-04 13:35:36,314 - INFO - Loading model from local directory.
-2025-01-04 13:36:28,023 - INFO - Logging initialized.
-2025-01-04 13:36:28,023 - INFO - Loading model from local directory.
-2025-01-04 13:37:29,936 - INFO - Logging initialized.
-2025-01-04 13:37:29,936 - INFO - Loading model from local directory.
-2025-01-04 13:37:47,211 - INFO - Logging initialized.
-2025-01-04 13:37:47,211 - INFO - Loading model from local directory.
-2025-01-04 13:43:58,599 - INFO - Logging initialized.
-2025-01-04 13:43:58,613 - INFO - Loading model from local directory.
-2025-01-04 13:47:38,062 - INFO - Logging initialized.
-2025-01-04 13:47:38,066 - INFO - Loading model from local directory.
-2025-01-04 14:06:18,604 - INFO - Logging initialized.
-2025-01-04 14:06:18,607 - INFO - Loading model from local directory.
-2025-01-04 14:09:09,378 - INFO - Logging initialized.
-2025-01-04 14:09:09,383 - INFO - Loading model from local directory.
-2025-01-04 14:11:52,270 - INFO - Logging initialized.
-2025-01-04 14:11:52,272 - INFO - Loading model from local directory.
-2025-01-04 14:13:56,961 - INFO - Logging initialized.
-2025-01-04 14:13:56,966 - INFO - Loading model from local directory.
-2025-01-04 17:20:17,276 - INFO - Logging initialized.
-2025-01-04 17:20:17,279 - INFO - Loading model from local directory.
-2025-01-04 18:09:37,616 - INFO - Logging initialized.
-2025-01-04 18:09:37,619 - INFO - Loading model from local directory.
-2025-01-04 18:10:19,758 - INFO - Logging initialized.
-2025-01-04 18:10:19,760 - INFO - Loading model from local directory.
-2025-01-04 18:26:41,569 - INFO - Logging initialized.
-2025-01-04 18:26:41,572 - INFO - Loading model from local directory.
-2025-01-04 21:59:03,703 - INFO - Logging initialized.
-2025-01-04 21:59:03,705 - INFO - Loading model from local directory.
-2025-01-04 22:19:13,758 - INFO - Logging initialized.
-2025-01-04 22:19:13,760 - INFO - Loading model from local directory.
-2025-01-04 23:11:45,371 - INFO - Logging initialized.
-2025-01-04 23:11:45,374 - INFO - Loading model from local directory.
-2025-01-05 00:12:43,033 - INFO - Logging initialized.
-2025-01-05 00:12:43,033 - INFO - Loading model from local directory.
-2025-01-05 00:16:57,185 - INFO - Logging initialized.
-2025-01-05 00:16:57,188 - INFO - Loading model from local directory.
-2025-01-05 00:17:48,436 - INFO - Logging initialized.
-2025-01-05 00:17:48,436 - INFO - Loading model from local directory.
-2025-01-05 00:20:15,480 - INFO - Logging initialized.
-2025-01-05 00:20:15,481 - INFO - Loading model from local directory.
-2025-01-05 08:15:13,023 - INFO - Logging initialized.
-2025-01-05 08:15:13,026 - INFO - Loading model from local directory.
-2025-01-05 08:37:02,157 - INFO - Logging initialized.
-2025-01-05 08:37:02,159 - INFO - Loading model from local directory.
-2025-01-15 07:55:59,190 - INFO - Logging initialized.
-2025-01-15 07:55:59,194 - INFO - Loading model from local directory.
-2025-01-15 07:57:08,320 - INFO - Logging initialized.
-2025-01-15 07:57:08,322 - INFO - Loading model from local directory.
-2025-01-15 08:00:17,416 - INFO - Logging initialized.
-2025-01-15 08:00:17,419 - INFO - Loading model from local directory.
-2025-01-18 19:37:06,824 - INFO - Logging initialized.
-2025-01-18 19:37:06,828 - INFO - Loading model from local directory.
+2024-11-30 00:58:38,789 - INFO - Logging initialized.
+2024-11-30 00:58:38,789 - INFO - Loading model from remote repository.
+2024-11-30 01:00:03,765 - INFO - Logging initialized.
+2024-11-30 01:00:03,765 - INFO - Loading model from remote repository.
+2024-11-30 01:01:00,008 - INFO - Logging initialized.
+2024-11-30 01:01:00,008 - INFO - Loading model from remote repository.
+2024-11-30 01:15:21,808 - INFO - Saving model and processor locally.
+2024-11-30 01:17:05,145 - INFO - Starting analysis workflow for: Sample_images/Chest_sample1.jpg
+2024-11-30 01:17:05,146 - INFO - Loading image: Sample_images/Chest_sample1.jpg
+2024-11-30 01:17:05,609 - INFO - Processing prompt: Describe "Airway"
+2024-11-30 01:29:21,052 - INFO - Response generated for prompt: Describe "Airway"
+2024-11-30 01:29:21,054 - INFO - Processing prompt: Describe "Breathing"
+2024-11-30 02:02:19,618 - INFO - Response generated for prompt: Describe "Breathing"
+2024-11-30 02:02:19,622 - INFO - Processing prompt: Describe "Cardiac"
+2024-11-30 02:19:22,920 - INFO - Response generated for prompt: Describe "Cardiac"
+2024-11-30 02:19:22,923 - INFO - Processing prompt: Describe "Diaphragm"
+2024-11-30 02:45:30,575 - INFO - Response generated for prompt: Describe "Diaphragm"
+2024-11-30 02:45:30,577 - INFO - Processing prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-11-30 03:00:46,196 - INFO - Response generated for prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-11-30 08:07:14,525 - INFO - Logging initialized.
+2024-11-30 08:07:14,526 - INFO - Loading model from local directory.
+2024-11-30 08:07:16,066 - INFO - Starting analysis workflow for: Sample_images/Chest_sample1.jpg
+2024-11-30 08:07:16,066 - INFO - Loading image: Sample_images/Chest_sample1.jpg
+2024-11-30 08:07:16,081 - INFO - Processing prompt: Describe "Airway"
+2024-11-30 08:17:21,145 - INFO - Response generated for prompt: Describe "Airway"
+2024-11-30 08:17:21,147 - INFO - Processing prompt: Describe "Breathing"
+2024-11-30 08:45:30,435 - INFO - Response generated for prompt: Describe "Breathing"
+2024-11-30 08:45:30,437 - INFO - Processing prompt: Describe "Cardiac"
+2024-11-30 09:00:01,820 - INFO - Response generated for prompt: Describe "Cardiac"
+2024-11-30 09:00:01,822 - INFO - Processing prompt: Describe "Diaphragm"
+2024-11-30 09:22:57,433 - INFO - Response generated for prompt: Describe "Diaphragm"
+2024-11-30 09:22:57,435 - INFO - Processing prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-11-30 09:35:54,523 - INFO - Response generated for prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-01 01:24:22,923 - INFO - Logging initialized.
+2024-12-01 01:24:22,924 - INFO - Loading model from local directory.
+2024-12-01 01:24:24,426 - INFO - Starting analysis workflow for: Sample_images/Chest_sample1.jpg
+2024-12-01 01:24:24,426 - INFO - Loading image: Sample_images/Chest_sample1.jpg
+2024-12-01 01:24:24,449 - INFO - Processing prompt: Describe "Airway"
+2024-12-01 01:34:43,893 - INFO - Response generated for prompt: Describe "Airway"
+2024-12-01 01:34:43,898 - INFO - Processing prompt: Describe "Breathing"
+2024-12-01 02:02:21,894 - INFO - Response generated for prompt: Describe "Breathing"
+2024-12-01 02:02:21,899 - INFO - Processing prompt: Describe "Cardiac"
+2024-12-01 02:16:45,116 - INFO - Response generated for prompt: Describe "Cardiac"
+2024-12-01 02:16:45,119 - INFO - Processing prompt: Describe "Diaphragm"
+2024-12-01 02:40:11,739 - INFO - Response generated for prompt: Describe "Diaphragm"
+2024-12-01 02:40:11,741 - INFO - Processing prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-01 02:53:06,851 - INFO - Response generated for prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-06 02:20:03,022 - INFO - Logging initialized.
+2024-12-06 02:20:03,023 - INFO - Loading model from local directory.
+2024-12-06 02:20:04,262 - INFO - Starting analysis workflow for: Sample_images/Chest_sample1.jpg
+2024-12-06 02:20:04,263 - INFO - Loading image: Sample_images/Chest_sample1.jpg
+2024-12-06 02:20:04,287 - INFO - Processing prompt: Describe "Airway"
+2024-12-06 03:08:34,888 - INFO - Response generated for prompt: Describe "Airway"
+2024-12-06 03:08:34,890 - INFO - Processing prompt: Describe "Breathing"
+2024-12-06 06:10:15,335 - INFO - Response generated for prompt: Describe "Breathing"
+2024-12-06 06:10:15,336 - INFO - Processing prompt: Describe "Cardiac"
+2024-12-06 06:25:13,838 - INFO - Response generated for prompt: Describe "Cardiac"
+2024-12-06 06:25:13,840 - INFO - Processing prompt: Describe "Diaphragm"
+2024-12-06 06:49:29,194 - INFO - Response generated for prompt: Describe "Diaphragm"
+2024-12-06 06:49:29,196 - INFO - Processing prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-06 07:03:50,697 - INFO - Response generated for prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-06 11:00:03,377 - INFO - Logging initialized.
+2024-12-06 11:00:03,378 - INFO - Loading model from local directory.
+2024-12-06 11:00:04,497 - INFO - Starting analysis workflow for: Sample_images/Chest_sample1.jpg
+2024-12-06 11:00:04,497 - INFO - Loading image: Sample_images/Chest_sample1.jpg
+2024-12-06 11:00:04,522 - INFO - Processing prompt: Describe "Airway"
+2024-12-06 11:10:19,271 - INFO - Response generated for prompt: Describe "Airway"
+2024-12-06 11:10:19,273 - INFO - Processing prompt: Describe "Breathing"
+2024-12-06 11:37:46,836 - INFO - Response generated for prompt: Describe "Breathing"
+2024-12-06 11:37:46,838 - INFO - Processing prompt: Describe "Cardiac"
+2024-12-06 11:52:24,998 - INFO - Response generated for prompt: Describe "Cardiac"
+2024-12-06 11:52:25,000 - INFO - Processing prompt: Describe "Diaphragm"
+2024-12-06 12:15:29,688 - INFO - Response generated for prompt: Describe "Diaphragm"
+2024-12-06 12:15:29,691 - INFO - Processing prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
+2024-12-06 13:04:21,808 - INFO - Response generated for prompt: Describe "Everything else (e.g., mediastinal contours, bones, soft tissues, tubes, valves, and pacemakers)"
